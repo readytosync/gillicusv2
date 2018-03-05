@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "11227715813",
+    "firebase_url": "https://gillicus-5d5aa.firebaseio.com",
+    "project_id": "gillicus-5d5aa",
+    "storage_bucket": "gillicus-5d5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11227715813:android:252d62957c62b97c",
+        "android_client_info": {
+          "package_name": "pilotreserve.testpilot.deploy.gillicus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11227715813-j35qvkg299c820eo3de65hhqa4cfoubc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pilotreserve.testpilot.deploy.gillicus",
+            "certificate_hash": "c435b3e801ab127b6fdb9726b4e0cbb55d5c557c"
+          }
+        },
+        {
+          "client_id": "11227715813-t13du2cnvufk83vukn2ihkfral6bn1pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHmB5uBk3gNjepgGkcDcO1S35tIiyBC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11227715813-t13du2cnvufk83vukn2ihkfral6bn1pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11227715813:android:f15a4466208119ca",
+        "android_client_info": {
+          "package_name": "pilotreserve.testpilot.deploy.gillicusv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11227715813-63vsjkh0uff2hi3n5c1o70lhsn8ddmh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pilotreserve.testpilot.deploy.gillicusv2",
+            "certificate_hash": "c435b3e801ab127b6fdb9726b4e0cbb55d5c557c"
+          }
+        },
+        {
+          "client_id": "11227715813-t13du2cnvufk83vukn2ihkfral6bn1pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHmB5uBk3gNjepgGkcDcO1S35tIiyBC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11227715813-t13du2cnvufk83vukn2ihkfral6bn1pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
